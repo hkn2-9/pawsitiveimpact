@@ -1,0 +1,47 @@
+#searchInput::placeholder {
+    color: #00008B;  /* your desired color */
+    opacity: 1;      /* ensures color is fully applied */
+}
+
+.navbar-dark .nav-item .nav-link {
+  color: #fff;
+}
+
+.navbar-dark .nav-item .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  border-radius: 0.25rem;
+  color: #fff;
+}
+
+.fa-li {
+  position: relative;
+  left: 0;
+}
+
+.material-symbols-outlined {
+      font-size: 20px;
+      vertical-align: middle;
+    }
+
+.navbar-nav.ms-auto .nav-link {
+    font-family: "Swanky and Moo Moo", cursive !important;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    color: white !important;
+    margin-left: 15px;
+}
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav-link .material-symbols-outlined {
+    margin-right: 6px;
+}
+
+.dropdown-menu-dark .dropdown-item:hover {
+    background-color: #0d6efd;
+}

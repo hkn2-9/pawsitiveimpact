@@ -10,4 +10,5 @@ document.getElementById("toe4").onclick = () =>
 
 // Link to Website
 document.getElementById("palm").onclick = () =>
-  window.location.href = "https://www.guiltygear.com/ggst/en/";
+  window.location.href = "https://www.coconinohumane.org/";
+

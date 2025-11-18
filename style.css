@@ -4,14 +4,14 @@
 }
 
 .navbar-dark .nav-item .nav-link {
-  color: #fff;
+  color: navy;
 }
 
 .navbar-dark .nav-item .nav-link:hover {
   background-color: rgba(255, 255, 255, 0.1);
   transition: all 0.3s ease;
   border-radius: 0.25rem;
-  color: #000080;
+  color: navy;
 }
 
 .fa-li {

@@ -1,6 +1,6 @@
 #searchInput::placeholder {
-    color: #00008B;  /* your desired color */
-    opacity: 1;      /* ensures color is fully applied */
+    color: #00008B;  
+    opacity: 0.5;    
 }
 
 .navbar-dark .nav-item .nav-link {

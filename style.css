@@ -76,3 +76,7 @@
       left: 15%;
       border-radius: 60% 60% 80% 80%;
     }
+
+body {
+    padding-bottom: 250px;  /* extra space so content isn't hidden behind footer */
+}

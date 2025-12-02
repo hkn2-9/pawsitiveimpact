@@ -76,6 +76,75 @@
       left: 15%;
       border-radius: 60% 60% 80% 80%;
     }
+    #paw2-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #paw2-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #paw2-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #paw2-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #paw2-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
+
+    #paw3-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #paw3-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #paw3-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #paw3-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #paw3-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
+
+    #paw4-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #paw4-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #paw4-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #paw4-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #paw4-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
+
+    #paw5-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #paw5-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #paw5-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #paw5-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #paw5-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
+
+    #paw6-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #paw6-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #paw6-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #paw6-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #paw6-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
 
 body {
     padding-bottom: 250px;  /* extra space so content isn't hidden behind footer */

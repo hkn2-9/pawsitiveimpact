@@ -149,3 +149,26 @@
 body {
     padding-bottom: 250px;  /* extra space so content isn't hidden behind footer */
 }
+
+.map-container {
+  width: 100%;           /* full width of parent */
+  max-width: 600px;      /* optional max width */
+  aspect-ratio: 4 / 3;   /* keeps height proportional to width */
+  margin: 0 auto;        /* centers the map */
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.map-description {
+    font-family: 'Swanky and Moo Moo', cursive;
+    font-size: 18px;
+    color: darkblue;
+    text-align: center;
+    margin-top: 15px;
+    max-width: 600px; /* keeps text aligned with map width */
+}
+

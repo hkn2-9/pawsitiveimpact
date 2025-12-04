@@ -56,13 +56,13 @@ document.getElementById("paw4-palm").onclick = () =>
 
 // Each of the toes and their own alerts
 document.getElementById("paw5-toe1").onclick = () => 
-  alert("That is ABA!");
+  alert("This is Thundercat, a 10 year old Domestic Shorthair who is excited to find her forever family.");
 document.getElementById("paw5-toe2").onclick = () => 
-  alert("May Guilty Gear!");
+  alert("Introducing Blue, a 3 year old Husky mix itching to find a loving family to call his own!");
 document.getElementById("paw5-toe3").onclick = () => 
-  alert("Ky Kiske!");
+  alert("Meet Donkey, a little 3 month old kitten ready to find a home to call his forever.");
 document.getElementById("paw5-toe4").onclick = () => 
-  alert("Lucy Cyberpunk!");
+  alert("This is Tanaka, a 9 year old Siberian Husky hoping to find a loving pack to be apart of!");
 
 // Link to Website
 document.getElementById("paw5-palm").onclick = () =>
@@ -81,6 +81,7 @@ document.getElementById("paw6-toe4").onclick = () =>
 // Link to Website
 document.getElementById("paw6-palm").onclick = () =>
   window.location.href = "https://yhbr.org/";
+
 
 
 

@@ -28,13 +28,13 @@ document.getElementById("paw2-palm").onclick = () =>
 
 // Each of the toes and their own alerts
 document.getElementById("paw3-toe1").onclick = () => 
-  alert("That is ABA!");
+  alert("This is Pickle, an 11 year old Domestic Mediumhair looking for a loving family to take her in.");
 document.getElementById("paw3-toe2").onclick = () => 
-  alert("May Guilty Gear!");
+  alert("Introducing Kaia, an 8 year old tan Pit Bull Terrier who is ready to go to her forever home!");
 document.getElementById("paw3-toe3").onclick = () => 
-  alert("Ky Kiske!");
+  alert("Meet Lily, a 13 year old gray and white Tabby Domestic Shorthair hoping to find a forever home!");
 document.getElementById("paw3-toe4").onclick = () => 
-  alert("Lucy Cyberpunk!");
+  alert("This is Fry, a 9 year old brown and black Pit Bull Terrier mix ready to be adopted by a loving family.");
 
 // Link to Website
 document.getElementById("paw3-palm").onclick = () =>
@@ -95,4 +95,5 @@ document.getElementById("product-toe4").onclick = () =>
 // Link to Website
 document.getElementById("product-palm").onclick = () =>
   window.location.href = "https://www.royalcanin.com/uk";
+
 

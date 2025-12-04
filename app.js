@@ -42,13 +42,13 @@ document.getElementById("paw3-palm").onclick = () =>
 
 // Each of the toes and their own alerts
 document.getElementById("paw4-toe1").onclick = () => 
-  alert("That is ABA!");
+  alert("Meet Plex, a 9 year old white and black Tibetan Terrier looking for the perfect place to call home.");
 document.getElementById("paw4-toe2").onclick = () => 
-  alert("May Guilty Gear!");
+  alert("This is Sprinkles, a 5 year old tricolored Guinea pig hoping she can burrow her way into someone's heart!");
 document.getElementById("paw4-toe3").onclick = () => 
-  alert("Ky Kiske!");
+  alert("Meet Traviessa, a 12 year old black and white Queensland Heeler ready to take her place in a family home!");
 document.getElementById("paw4-toe4").onclick = () => 
-  alert("Lucy Cyberpunk!");
+  alert("This is Pudge, a 10 year old black and white Domestic Shorthair who is ready to be the Queen of her new forever home.");
 
 // Link to Website
 document.getElementById("paw4-palm").onclick = () =>
@@ -95,5 +95,6 @@ document.getElementById("product-toe4").onclick = () =>
 // Link to Website
 document.getElementById("product-palm").onclick = () =>
   window.location.href = "https://www.royalcanin.com/uk";
+
 
 

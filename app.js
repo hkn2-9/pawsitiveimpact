@@ -70,17 +70,18 @@ document.getElementById("paw5-palm").onclick = () =>
 
 // Each of the toes and their own alerts
 document.getElementById("paw6-toe1").onclick = () => 
-  alert("That is ABA!");
+  alert("This little diva is named Skibidi and she is an adult Abyssinian who is ready to be the lioness of a household who needs one!");
 document.getElementById("paw6-toe2").onclick = () => 
-  alert("May Guilty Gear!");
+  alert("Meet Bam Bam, a little Pit Bull Terrier Mix with lots of energy who needs a loving family to match his charm!");
 document.getElementById("paw6-toe3").onclick = () => 
-  alert("Ky Kiske!");
+  alert("Introducing Miracle Maria, an adult Calico mix who has survived the odds and is ready to settle down in a warm, loving home.");
 document.getElementById("paw6-toe4").onclick = () => 
-  alert("Lucy Cyberpunk!");
+  alert("This is Bella, an adult mixed breed who is ready to be trained and cared for in her forever family.");
 
 // Link to Website
 document.getElementById("paw6-palm").onclick = () =>
   window.location.href = "https://yhbr.org/";
+
 
 
 

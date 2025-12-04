@@ -14,13 +14,13 @@ document.getElementById("palm").onclick = () =>
 
 // Each of the toes and their own alerts
 document.getElementById("paw2-toe1").onclick = () => 
-  alert("That is ABA!");
+  alert("Meet Max, a 7 year old American Pit Bull Terrier Mix in need of a loving home!");
 document.getElementById("paw2-toe2").onclick = () => 
-  alert("May Guilty Gear!");
+  alert("This is Hage, a 3 year old American Pit Bull with a lot of love in her heart ready for a family to love her in return.");
 document.getElementById("paw2-toe3").onclick = () => 
-  alert("Ky Kiske!");
+  alert("Meet Indie the 3 year old American Pit Bull Terrier, a pup ready to find a warm and loving household!");
 document.getElementById("paw2-toe4").onclick = () => 
-  alert("Lucy Cyberpunk!");
+  alert("This little sweetie is Pepper, a 13 year old American Pit Bull & Lab who would make a wonderful addition to any loving family.");
 
 // Link to Website
 document.getElementById("paw2-palm").onclick = () =>
@@ -81,6 +81,7 @@ document.getElementById("paw6-toe4").onclick = () =>
 // Link to Website
 document.getElementById("paw6-palm").onclick = () =>
   window.location.href = "https://yhbr.org/";
+
 
 
 

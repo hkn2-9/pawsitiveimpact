@@ -146,6 +146,22 @@
       border-radius: 60% 60% 80% 80%;
     }
 
+    /* Adjusting toes and palm, in case the image looks strange */
+    /* Skew is used to pull on the image, but it can also make it look awkward, so be careful! */
+    #product-toe1 { width: 80px; height: 100px; top: 130px; left: -25px;}
+    #product-toe2 { width: 90px; height: 110px; top: 60px; left: 60px; transform:skew(-15deg);}
+    #product-toe3 { width: 90px; height: 110px; top: 60px; right: 50px; transform:skew(15deg);}
+    #product-toe4 { width: 80px; height: 100px; top: 120px; right: -40px; }
+    #product-palm {
+      width: 220px;
+      height: 200px;
+      bottom: -25px;
+      transform:skewX(-30deg);
+      rotate: 25deg;
+      left: 15%;
+      border-radius: 60% 60% 80% 80%;
+    }
+
 body {
     padding-bottom: 250px;  /* extra space so content isn't hidden behind footer */
 }
